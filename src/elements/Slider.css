@@ -1,0 +1,23 @@
+.item {
+    height: 170px;
+    margin-top: 40px;
+}
+.item .items{
+    height: 100%;
+}
+span{
+    height: 100%;
+}
+span h5{
+    transform: translateX(25%);
+    text-transform: capitalize;
+    font-weight: 600;
+}
+span img{
+    height:170px;
+    margin-left: 20px;
+}
+.div-item{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,29 @@
+.fline{
+    height: 60px;
+    background-color: rgb(35, 35, 49);
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+    background-color: rgb(43, 43, 52);
+    color: white;
+}
+.f-div{
+    width: 25%;
+    margin-left: 50px;
+}
+.address{
+    color: white;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
